@@ -101,3 +101,9 @@ li a {
   text-align: right;
   font-family: 'Open Sans', sans-serif;
 }
+
+#PP_button {
+  clear: both;
+  padding: 10px;
+  text-align: center;
+}

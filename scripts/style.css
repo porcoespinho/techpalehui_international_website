@@ -79,10 +79,9 @@ li a {
 
 .main {
   font-size: 112.5%;
-  padding-top: 0em;
-  padding-right: 1.2em;
-  padding-bottom: 1.2em;
-  padding-left: 1.2em;
+  text-align: justify;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .displayed {

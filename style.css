@@ -114,6 +114,12 @@ li a {
   font-family: 'Open Sans', sans-serif;
 }
 
+#google_translate_element {
+  clear: both;
+  padding: 1em;
+  text-align: right;
+}
+
 #PP_button {
   clear: both;
   padding: 1em;
